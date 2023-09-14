@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @G20square
 - 👀 I’m interested in learing more about techmology
-- 🌱 I’m currently enrolling for btech cse 1st year at lpu
+- 🌱 1st year at Lovely Professional University
 
 <!---
 G20square/G20square is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
